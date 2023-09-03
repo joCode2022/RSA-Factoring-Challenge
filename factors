@@ -3,7 +3,6 @@
  into a product of two smaller numbers."""
 from sys import argv
 
-
 def factorize(value):
     """"print a simple descomposition of an integer > 1"""
     i = 2
